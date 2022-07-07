@@ -1,3 +1,4 @@
+# prebuild trigger: 1
 tasks:
   - init: "echo start; sleep 600; echo done;"
   - command: "echo done"
